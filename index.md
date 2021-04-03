@@ -18,7 +18,7 @@ Our ministry is active online at our [Facebook page](http://facebook.com/FPCBNY)
 
 ## Contribute
 
-If you'd like to help us out, please see our [Donation](donate.md) page.
+If you'd like to help us out, please see our [donation](donate.md) page.
 
 ## Contact Us
 
