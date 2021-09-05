@@ -8,7 +8,7 @@ show-avatar: false
 ---
 
 ## In-Person Worship
-First Presbyterian will resume in-person worship on Sunday, June 6! For the safety of our community, we will limit our in-person worship gatherings to 50 people, and you must pre-register in order to attend. Please use [this registration form](https://beaconpresbychurch.breezechms.com/form/ed7f06) to let us know you plan to attend.
+First Presbyterian has resumed in-person worship services, Sunday mornings at 10am.  Masks are required indoors, regardless of vaccination status, but we welcome all back to worship after this long period away!
 
 ## Online Worship
 For those who are unable or uncomfortable attending in-person gatherings, we invite you to continue participating in our online gatherings! Our ministry is active online with weekly services on our [Facebook page](http://facebook.com/FPCBNY) and [YouTube channel](http://youtube.com/user/BeaconPresbyChurch).
