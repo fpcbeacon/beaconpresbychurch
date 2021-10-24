@@ -14,7 +14,7 @@ The page preview in GitHub should be good enough to see simple changes, but for 
 
 ## Bigger Changes
 
-For changes are are more than a quick change to a page (such as styling differences, whole new pages, etc), 
+For changes that are more than a quick change to a page (such as styling differences, whole new pages, etc), 
 it's best to fork this GitHub repository to create your own sandbox to make changes.
 Then you can create a pull request to make the changes live.
 
@@ -44,7 +44,7 @@ Or _**the two together**_ `_**like so**_`.
 
 ### Links
 
-Links are created by putting a text in square brackets followed by the url in parenthesis.
+Links are created by putting text in square brackets followed by the url in parenthesis.
 For example to link to Google, you'd write `[Google](google.com)`.
 
 When creating a link to another page in this site, just use the file name instead, such as `(Donate Now!)[donate.md]`.
