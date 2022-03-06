@@ -7,6 +7,10 @@ cover-img: "images/FPC_Screenshots_dark.jpg"
 show-avatar: false
 ---
 
+## Support for Ukrainian Refugees <img title="Ukrainian Flag" src="images/ukraine-whatsapp.png" width="30"></img>
+
+Friends, Presbyterian Disaster Assistance, a program of PCUSA's Presbyterian Mission, is making a special appeal to support their work with Ukrainian refugees. First Presbyterian will be conducting a second collection for this appeal. On Sunday, March 13. If you wish to give online or learn more about PDA's work in the US & around the world, visit [PCUSA.ORG/UKRAINE22](pcusa.org/UKRAINE22). Thank you!
+
 ## In-Person Worship
 First Presbyterian has resumed in-person worship services, Sunday mornings at 10am.  Masks are required indoors, regardless of vaccination status, but we welcome all back to worship after this long period away!
 
