@@ -7,7 +7,7 @@ You can think of it as your own sandbox where you can try anything out and copy 
 
 Click on drop down arround next to "Fork" on the top right of the page. Then select "Create a new fork".
 
-![Fork Repo](images/fork_repo.png)
+<img src="images/fork_repo.png" width=400 border=1>
 
 Next you should be able to take the defaults and click the "Create fork" button.
 
