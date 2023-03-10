@@ -7,12 +7,8 @@ cover-img: "images/FPC_Screenshots_dark.jpg"
 show-avatar: false
 ---
 
-## Support for Ukrainian Refugees <img title="Ukrainian Flag" src="images/ukraine-whatsapp.png" width="50" />
-
-Friends, Presbyterian Disaster Assistance, a program of PCUSA's Presbyterian Mission, is making a special appeal to support their work with Ukrainian refugees. First Presbyterian Beacon is supporting this important mission and encourage others to do so. If you wish to give online or learn more about PDA's work in the US & around the world, visit [PCUSA.ORG/UKRAINE22](https://pcusa.org/UKRAINE22). Thank you!
-
-## In-Person Worship
-First Presbyterian has resumed in-person worship services, Sunday mornings at 10am.  Masks are required indoors, regardless of vaccination status, but we welcome all back to worship after this long period away!
+## Worship
+First Presbyterian's worship services are Sunday mornings at 10am.
 
 ## Online Worship
 For those who are unable or uncomfortable attending in-person gatherings, we invite you to continue participating in our online gatherings! Our ministry is active online with weekly services on our [Facebook page](http://facebook.com/FPCBNY) and [YouTube channel](http://youtube.com/user/BeaconPresbyChurch).
