@@ -1,7 +1,7 @@
 # BeaconPresbyChurch.org
 
 This is the source for the First Presbyterian Church of Beacon website.
-To see the live site head over to [BeaconPresbyChurch.org](beaconpresbychurch.org).
+To see the live site head over to [BeaconPresbyChurch.org](https://beaconpresbychurch.org).
 
 ## Editing a Page
 
