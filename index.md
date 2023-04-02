@@ -21,9 +21,9 @@ We also offer all our services live streaming on [YouTube @BeaconPresbyChurch](h
 
 ### Also Upcoming
 
-**4/23**  Our new pastor Rev. Eileen’s Installation Service (see brief bio below)  
-- 11am  Informal gathering with brunch (note special start time!)  
-- 1pm   Installation Service for Rev Eileen  
+**4/23 Installation Service** - Celebrating our new pastor, Rev. Eileen (see brief bio below)  
+- **11am Informal gathering with brunch** (note special start time!)  
+- **1pm Installation Service for Rev Eileen**  
 
 ## Our Vision
 
