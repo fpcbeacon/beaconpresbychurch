@@ -7,23 +7,23 @@ cover-img: "images/FPC_Screenshots_dark.jpg"
 show-avatar: false
 ---
 
-## Worship with use every Sunday at 10am
+## Worship with us every Sunday at 10am
 
 Follow us on [Facebook FPCBNY](http://facebook.com/FPCBNY) and [Instagram @fpcbny](https://www.instagram.com/fpcbny/) for the most up to date information! 
 
-### 2023 EASTER SERVICES
+### 2023 Easter Services
 
-4/2 	Palm Sunday 10am (including a special Children’s Message)
-4/7 	Good Friday 7p - A quiet, reflective, candle-lit service)
-4/9 	Easter Sunday 10a Worship Service (including a Childrens’ Message and Easter Egg Hunt)
+**4/2 Palm Sunday 10am** - Includes a special Children’s Message  
+**4/7 Good Friday 7pm** - A quiet, reflective, candle-lit service  
+**4/9 Easter Sunday 10am** - Worship Service (including a Childrens’ Message and Easter Egg Hunt)
 
 We also offer all our services live streaming on [YouTube @BeaconPresbyChurch](http://youtube.com/user/BeaconPresbyChurch).
 
-ALSO UPCOMING
+### Also Upcoming
 
-4/23  Our new pastor Rev. Eileen’s Installation Service (see brief bio below)
-	   11am  Informal gathering with brunch (note special start time!)
-     1pm   Installation Service for Rev Eileen 
+**4/23**  Our new pastor Rev. Eileen’s Installation Service (see brief bio below)  
+- 11am  Informal gathering with brunch (note special start time!)  
+- 1pm   Installation Service for Rev Eileen  
 
 ## Our Vision
 
@@ -43,6 +43,8 @@ If you'd like to help us out, please see our [donation](donate.md) page.
 * Facebook: [facebook.com/FPCBNY](http://facebook.com/FPCBNY)
 * Instagram: [@fpcbny](https://www.instagram.com/fpcbny/)
 
-<b>Reverend Dr. Eileen Borduin Vanderzwan</b> comes to us from Rochester, New York where she served as a transitional pastor. She received her MDiv from Princeton Theological Seminary, during which time she acquired her Field Education in Troon Scotland, serving as Associate Pastor. She received her Doctoral Degree at Colgate Rochester Crozer Divinity School in Transformational Ministry with a Concentration in Prophetic Preaching and a focus on Worship and the Arts. 
+### Our Pastor
+
+**Reverend Dr. Eileen Borduin Vanderzwan** comes to us from Rochester, New York where she served as a transitional pastor. She received her MDiv from Princeton Theological Seminary, during which time she acquired her Field Education in Troon Scotland, serving as Associate Pastor. She received her Doctoral Degree at Colgate Rochester Crozer Divinity School in Transformational Ministry with a Concentration in Prophetic Preaching and a focus on Worship and the Arts. 
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2988.0777741135653!2d-73.9623172846394!3d41.50258937925374!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89dd3167534c09f1%3A0x9c65275fc9d5213c!2sFirst%20Presbyterian%20Church!5e0!3m2!1sen!2sus!4v1585499610358!5m2!1sen!2sus" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
