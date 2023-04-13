@@ -10,16 +10,9 @@ show-avatar: false
 ## Worship with us every Sunday at 10am
 
 Follow us on [Facebook FPCBNY](http://facebook.com/FPCBNY) and [Instagram @fpcbny](https://www.instagram.com/fpcbny/) for the most up to date information! 
-
-### 2023 Easter Services
-
-**4/2 Palm Sunday 10am** - Includes a special Children’s Message  
-**4/7 Good Friday 7pm** - A quiet, reflective, candle-lit service  
-**4/9 Easter Sunday 10am** - Worship Service (including a Childrens’ Message and Easter Egg Hunt)
-
 We also offer all our services live streaming on [YouTube @BeaconPresbyChurch](http://youtube.com/user/BeaconPresbyChurch).
 
-### Also Upcoming
+### Upcoming
 
 **4/23 Installation Service** - Celebrating our new pastor, Rev. Eileen (see brief bio below)  
 - **11am Informal gathering with brunch** (note special start time!)  
