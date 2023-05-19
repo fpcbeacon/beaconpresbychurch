@@ -12,12 +12,6 @@ show-avatar: false
 Follow us on [Facebook FPCBNY](http://facebook.com/FPCBNY) and [Instagram @fpcbny](https://www.instagram.com/fpcbny/) for the most up to date information! 
 We also offer all our services live streaming on [YouTube @BeaconPresbyChurch](http://youtube.com/user/BeaconPresbyChurch).
 
-### Upcoming
-
-**4/23 Installation Service** - Celebrating our new pastor, Rev. Eileen (see brief bio below)  
-- **11am Informal gathering with brunch** (note special start time!)  
-- **1pm Installation Service for Rev Eileen**  
-
 ## Our Vision
 
 **Bridging Worlds. Encountering God. Healing Lives.** 
