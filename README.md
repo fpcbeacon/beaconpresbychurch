@@ -18,7 +18,7 @@ For changes that are more than a quick change to a page (such as styling differe
 it's best to fork this GitHub repository to create your own sandbox to make changes.
 Then you can create a pull request to make the changes live.
 
-Instructions for doing that are not covered here. Check with a site admin.
+See [Forking](FORKING.md) for details how to make your own working copy of the site for edits.
 
 ## Markdown Basics
 
