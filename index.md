@@ -7,6 +7,9 @@ cover-img: "images/FPC_Screenshots_dark.jpg"
 show-avatar: false
 ---
 
+> # Worship cancelled on January 7 due to weather.
+> Join us online instead for a short service on [YouTube @BeaconPresbyChurch](http://youtube.com/user/BeaconPresbyChurch).
+
 ## Worship with us every Sunday at 10am
 
 Follow us on [Facebook FPCBNY](http://facebook.com/FPCBNY) and [Instagram @fpcbny](https://www.instagram.com/fpcbny/) for the most up to date information! 
