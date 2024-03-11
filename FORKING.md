@@ -7,11 +7,13 @@ You can think of it as your own sandbox where you can try anything out and copy 
 
 Click on drop down arround next to "Fork" on the top right of the page. Then select "Create a new fork".
 
-<img src="images/fork_repo.png" width=400 border=1>
+| ![Create new fork](images/fork_repo.png)
+|-
 
 Next you should be able to take the defaults and click the "Create fork" button.
 
-![Create Fork](images/create_fork.png)
+| ![Create Fork](images/create_fork.png)
+|-
 
 ## Setup Pages
 
@@ -22,14 +24,16 @@ Next select "Pages" from the left menu.
 From here change the branch from "None" to "main.
 Then click "Save".
 
-![Github Pages Setup](images/github_pages_branch.png)
+| ![Github Pages Setup](images/github_pages_branch.png)
+|-
 
 It then starts building your web page.
 This may take a couple minutes.
 When it's down you can refresh that page and it will show you where your private site is located.
 Click on "View site" to view it.
 
-![Github Pages Visit Site](images/github_visit_site.png)
+| ![Github Pages Visit Site](images/github_visit_site.png)
+|-
 
 ## Make Changes
 
