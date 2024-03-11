@@ -29,8 +29,8 @@ Then click "Save".
 
 It then starts building your web page.
 This may take a couple minutes.
-When it's down you can refresh that page and it will show you where your private site is located.
-Click on "View site" to view it.
+When it's donwen you can refresh that page and it will show you where your private site is located.
+Click on "Visit site" to view it.
 
 | ![Github Pages Visit Site](images/github_visit_site.png)
 |-
