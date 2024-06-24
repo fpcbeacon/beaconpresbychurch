@@ -13,7 +13,7 @@ Follow us on [Facebook FPCBNY](http://facebook.com/FPCBNY) and [Instagram @fpcbn
 We also offer all our services live streaming on [YouTube @BeaconPresbyChurch](http://youtube.com/user/BeaconPresbyChurch).
 
 
-</div>
+
 
 ## Our Vision
 
