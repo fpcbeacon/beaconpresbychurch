@@ -35,8 +35,10 @@ If you'd like to help us out, please see our [donation](donate.md) page.
 
 
 
-**Our Pastor’s Page
+**Our Pastor’s Page 
+
 Welcome to the website of Beacon First Presbyterian Church!
+
 I am excited that you have come searching. Located in the city of Beacon, considered an artist
 hub, artists are plentiful in our congregation. We have a great arts community, and many who work
 
@@ -114,4 +116,4 @@ Beacon First Presbyterian Church
 Beacon, New York, 12508
 Church Phone: 845 831 5322
 Email: Office@beaconpresbychurch.org
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2988.0777741135653!2d-73.9623172846394!3d41.50258937925374!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89dd3167534c09f1%3A0x9c65275fc9d5213c!2sFirst%20Presbyterian%20Church!5e0!3m2!1sen!2sus!4v1585499610358!5m2!1sen!2sus" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+
