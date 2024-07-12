@@ -3,7 +3,6 @@ remote_theme: daattali/beautiful-jekyll
 css: css/override.css
 navbar-links:
   Donate: "donate"
-  Pastor's Page: "pastor"
 
 
 defaults:
