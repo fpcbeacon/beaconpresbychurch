@@ -49,6 +49,20 @@ For example to link to Google, you'd write `[Google](google.com)`.
 
 When creating a link to another page in this site, just use the file name instead, such as `(Donate Now!)[donate.md]`.
 
+### Line Wrapping
+
+In markdown putting a new text on the next line does **not** make it wrap in the actual page.
+Instead it will just continue on the same line.
+
+However, if you put an empy line between text, Markdown will treat it as a new paragraph.
+
+If you need to make a line wrap without breaking to a new paragraph, you can use the &lt;br&gt; tag like the following, but that should be done sparingly:
+
+```Markdown
+First line<br>
+Second line
+```
+
 ### Images
 
 First you'll have to upload any image to the [images folder](images). 
