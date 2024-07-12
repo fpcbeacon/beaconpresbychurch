@@ -16,6 +16,14 @@
   margin-right: -50vw;
 }
 
+/* Float image to the right or left */
+.float-right {
+  float: right;
+}
+.float-left {
+  float: left;
+}
+
 /* Larger sub-heading */
 .intro-header .page-heading .page-subheading,
 .intro-header .post-heading .post-subheading {
