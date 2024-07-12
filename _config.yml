@@ -2,6 +2,7 @@ title: FPC Beacon
 remote_theme: daattali/beautiful-jekyll
 css: css/override.css
 navbar-links:
+  Home: ""
   Pastor's Page: "pastor"
   Donate: "donate"
 
