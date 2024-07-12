@@ -1,7 +1,7 @@
 # How to Create a Fork and Test Updates
 
 In Github a "fork" is a separate copy of a repository. 
-You can think of it as your own sandbox where you can try anything out and copy it back when you're happy.
+You can think of it as your own sandbox where you can try anything out and copy it to the real site when you're happy.
 
 ## Create Fork
 
