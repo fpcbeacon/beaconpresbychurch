@@ -4,6 +4,8 @@ title: Pastor's Page
 subtitle: Welcome to the website of Beacon First Presbyterian Church!
 ---
 
+![Reverend Eileen](images/IMG_2906.jpg){: .float-right}
+
 I am excited that you have come searching. Located in the city of Beacon, considered an artist
 hub, artists are plentiful in our congregation. 
 We have a great arts community, and many who work in NYC have chosen to live here.
