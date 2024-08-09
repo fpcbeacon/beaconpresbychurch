@@ -46,10 +46,11 @@ inviting people to take what they need, leave what they can. And members from th
 community do both. Some take what they need, others share with us by bringing food to
 contribute to the food.
 
-Our next project is to update this website, so come back again and see us. Contact us if
-you want to talk or connect. I would love to talk together, share thoughts and ideas. We can
-do this via text, or email, or in person! Call and leave a message and I will get back to you. I
-would love to meet together and just chat.
+Contact us if you want to talk or connect. 
+I would love to talk together, share thoughts and ideas. 
+We can do this via text, or email, or in person!
+Call and leave a message and I will get back to you. 
+I would love to meet together and just chat.
 
 It is because Christ loves us that we love each other.
 We choose welcome, compassion, and grace.
