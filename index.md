@@ -10,7 +10,7 @@ show-avatar: false
 ## Worship with us every Sunday at 10am
 
 Follow us on [Facebook FPCBNY](http://facebook.com/FPCBNY) and [Instagram @fpcbny](https://www.instagram.com/fpcbny/) for the most up to date information! 
-We also offer all our services live streaming on [YouTube @BeaconPresbyChurch](http://youtube.com/user/BeaconPresbyChurch).
+We also offer our services live streaming on [YouTube @BeaconPresbyChurch](http://youtube.com/user/BeaconPresbyChurch).
 
 <div style="display:flex; justify-content:space-evenly;">
 <a href="http://facebook.com/FPCBNY"><img src="images/facebook_icon_48.png" alt="Facebook FPCBNY"></a>
