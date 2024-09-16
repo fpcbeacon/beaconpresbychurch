@@ -12,7 +12,7 @@ show-avatar: false
 Follow us on [Facebook FPCBNY](http://facebook.com/FPCBNY) and [Instagram @fpcbny](https://www.instagram.com/fpcbny/) for the most up to date information! 
 We also offer all our services live streaming on [YouTube @BeaconPresbyChurch](http://youtube.com/user/BeaconPresbyChurch).
 
-<div style="display:flex; justify-content:space-evenly;">
+<div style="display:flex; justify-content:space-evenly;" markdown="1">
 
 [![Facebook FPCBNY](/images/facebook_icon_48.png)](http://facebook.com/FPCBNY)
 [![Instagram @fpcbny](/images/instagram_icon_48.png)](https://www.instagram.com/fpcbny/)
