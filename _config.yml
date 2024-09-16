@@ -4,7 +4,7 @@ css: css/override.css
 navbar-links:
   Home: "/"
   Pastor's Page: "pastor"
-  Livestream: "https://www.youtube.com/@BeaconPresbyChurch/streams"
+  Livestream: "https://www.youtube.com/@BeaconPresbyChurch/live"
   Donate: "donate"
 
 defaults:
