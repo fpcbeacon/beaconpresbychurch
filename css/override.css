@@ -50,6 +50,11 @@
   text-decoration: none;
 }
 
+/* Poser wrapper for canva includes. This makes sure they don't grow too large and are centered. */
+div.poster {
+  max-width: 700px;
+  margin: auto;
+}
 
 /* Donate button in navbar */
 .navbar-custom .navbar-nav li a[href*="donate"] {
