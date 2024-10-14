@@ -19,9 +19,9 @@ Next you should be able to take the defaults and click the "Create fork" button.
 
 Once you have your fork, you'll need to set up the web page feature.
 
-To do that click on the "Settings" tab near the top.
+To do that, click on the "Settings" tab near the top.
 Next select "Pages" from the left menu. 
-From here change the branch from "None" to "main.
+From here change the branch from "None" to "main".
 Then click "Save".
 
 | ![Github Pages Setup](images/github_pages_branch.png)
@@ -29,8 +29,8 @@ Then click "Save".
 
 It then starts building your web page.
 This may take a couple minutes.
-When it's donwen you can refresh that page and it will show you where your private site is located.
-Click on "Visit site" to view it.
+When it's done, you can refresh that page and it will show you where your private site is located.
+Click on "Visit site" link to view it.
 
 | ![Github Pages Visit Site](images/github_visit_site.png)
 |-
@@ -38,7 +38,7 @@ Click on "Visit site" to view it.
 ## Make Changes
 
 Now you can edit files as much as you like and not worry about breaking the live site.
-Just be sure to the top left has your name and not `fpcbeacon / beaconpresbychurch` which is the live site.
+Just be sure to the top left has your name and not `fpcbeacon / beaconpresbychurch`, which is the live site.
 
 ## Merging Back to Live Site
 
