@@ -36,7 +36,7 @@ For example:
 
 Text can also be formatted by wrapping it in symbols. 
 
-**Bold text** can be indicated by using two astericks `**like this**`.
+**Bold text** can be indicated by using two asterisks `**like this**`.
 
 _Italics_ can be indicated by using underscores `_like this_`.
 
@@ -51,8 +51,8 @@ When creating a link to another page in this site, just use the file name instea
 
 ### Line Wrapping
 
-In markdown putting a new text on the next line does **not** make it wrap in the actual page.
-Instead it will just continue on the same line.
+In markdown putting text on the next line does **not** make it wrap in the actual page.
+Instead, it will just continue on the same line.
 
 However, if you put an empy line between text, Markdown will treat it as a new paragraph.
 
@@ -69,6 +69,12 @@ First you'll have to upload any image to the [images folder](images).
 Then adding it to the page looks similar to a link but prefixed by an exclamation mark.
 For example `![FPC Title](images/fpc_title.png)`. 
 The text in the square brackets is what is used if the image can't load or for the visual impared.
+
+### HTML
+
+Markdown also support HTML tags (stuff inside of &lt; and &gt; characters).
+We use that for more complicated code such as imbedding Canva posters.
+If formatting can be done without HTML, that's preferable, but if not, go ahead and use HTML.
 
 ### More
 
