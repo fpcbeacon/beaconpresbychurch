@@ -27,7 +27,7 @@ We also offer our services live streaming on [YouTube @BeaconPresbyChurch](http:
     src="https://www.canva.com/design/DAGjrsVfi0E/Gm0lyFYNRAwNbeZY5H_GoA/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGjrsVfi0E&#x2F;Gm0lyFYNRAwNbeZY5H_GoA&#x2F;view?utm_content=DAGjrsVfi0E&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Holy Week Brochure (Doc Banner)</a> by First Presbyterian Office Administrator
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGjrsVfi0E&#x2F;Gm0lyFYNRAwNbeZY5H_GoA&#x2F;view?utm_content=DAGjrsVfi0E&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">
 </div><!-- Put canva embed code above this line. -->
 
 ## Our Vision
