@@ -14,7 +14,7 @@ I have 4 adult children and 4 grandkiddos who light up my life.  I enjoy the art
 
 And I am open for coffee and getting to know anyone who is interested in getting to know us. Give a call to the church and we can set something up! Church Office: 845 831 5322
 
-  Rev Eileen was ordained into ministry in the Presbyterian Church (USA) in 2007, after graduating from Princeton Theological Seminary. She received her   doctoral degree in Transformational Ministry with a focus on Worship and the Arts, her dissertation entitled, Windows into the Holy: The Arts for   Preaching and Worship from a Biblical, Reformed Perspective, from Colgate Rochester Crozer Divinity School in Rochester, New York.  She has served   multiple churches in New York after spending a year serving Troon Parish Church in Troon, Scotland, where she experienced church from a loving Scottish   church community, expanding her vision of the community Christ calls us to be. 
+_Rev Eileen was ordained into ministry in the Presbyterian Church (USA) in 2007, after graduating from Princeton Theological Seminary. She received her   doctoral degree in Transformational Ministry with a focus on Worship and the Arts, her dissertation entitled, Windows into the Holy: The Arts for   Preaching and Worship from a Biblical, Reformed Perspective, from Colgate Rochester Crozer Divinity School in Rochester, New York.  She has served   multiple churches in New York after spending a year serving Troon Parish Church in Troon, Scotland, where she experienced church from a loving Scottish   church community, expanding her vision of the community Christ calls us to be._
 
 
 Beacon First Presbyterian Church<br/>
