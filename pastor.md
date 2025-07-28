@@ -6,59 +6,16 @@ subtitle: Welcome to the website of Beacon First Presbyterian Church!
 
 ![Reverend Eileen](images/IMG_2906.jpg){: .float-right}
 
-I am excited that you have come searching. Located in the city of Beacon, considered an artist
-hub, artists are plentiful in our congregation. 
-We have a great arts community, and many who work in NYC have chosen to live here.
+I am sustained by the deep sense of God’s abiding presence and am grateful for the gift of serving a church where adventure is possible, all are welcome, and asking questions and trying new things are an authentic part of the journey. I, along with my fellow travelers in faith, make our way in a broken world, with a heart for social justice as we continue to embody acts of love, grace, and kindness as the hands and feet of Christ in the world.  I love to study Scripture where I continually find joy and new depths of understanding, for I believe that God’s words are for all times and places. Sharing the challenge and the comfort of Jesus Christ is the fascinating and daunting calling for me as I walk beside these people of compassion, as we strive to encounter God, build bridges, and heal lives through the love and grace of Jesus Christ.
 
-I have been here serving as pastor for about a year and a half and have
-been impressed by the people and leadership.
+Our congregation reminds me of the early church. We care for one another and those who join us as we gather for worship each Sunday. Seasonally, we offer the sanctuary for evening Quiet Church, and we come together for Brunch Worship on the third Sunday of the month where we bring and share food and soul food. Our services are warm, welcoming, and relaxed, and children are valued and have a prominent place as we continue to explore new ways to be the church both inside and outside our walls. 
 
-As the Body of Christ, we are Easter People, living into the Life-giving Spirit of
-Jesus Christ, bringing hope and new life to all people. We are a community where
-honest questions are valued, and faith is considered a process, not an arrival.
+I have 4 adult children and 4 grandkiddos who light up my life.  I enjoy the arts, reading a good book, studying theology, walking by the water, biking, good food and great conversations. I have a pooch named Priscilla who keeps me out and walking, and I am enjoying the charming town of Beacon and all it has to offer.
 
-We affirm that every person has worth as a unique creation and a child of God. In
-the name of Jesus Christ, we welcome into full participation persons of every age,
-sex, race, color, ethnicity, culture, immigration status, political affiliation, economic
-condition, physical and mental ability, marital status, sexual orientation, and gender identity. We hope that
-whoever you are, wherever you come from, whatever your background, whomever you love, that you will
-find just what you need here.
+And I am open for coffee and getting to know anyone who is interested in getting to know us. Give a call to the church and we can set something up! Church Office: 845 831 5322
 
-Come see for yourself!
+  Rev Eileen was ordained into ministry in the Presbyterian Church (USA) in 2007, after graduating from Princeton Theological Seminary. She received her   doctoral degree in Transformational Ministry with a focus on Worship and the Arts, her dissertation entitled, Windows into the Holy: The Arts for   Preaching and Worship from a Biblical, Reformed Perspective, from Colgate Rochester Crozer Divinity School in Rochester, New York.  She has served   multiple churches in New York after spending a year serving Troon Parish Church in Troon, Scotland, where she experienced church from a loving Scottish   church community, expanding her vision of the community Christ calls us to be. 
 
-Our worship is inclusive, all can participate. It is a combination of traditional and
-contemporary, and there is always a place for children.
-* If you are looking for a place to belong, Beacon First Pres. is a loving and caring
-congregation.
-* If you are looking for a place to learn more about the God who created us all, whose name
-is Love, then venture to check us out.
-* If you have questions, so do we. If you have doubts, share them. These are honest
-aspects of journeying in faith. No question is invalid. We don’t have all the answers, I
-certainly don’t, but I would love to explore together. That is what I try to do on Sundays
-as well. God’s Spirit is all compassion and comfort and will guide us. if we ask.
-* If you want a place to contribute to making this community, this world, a better place, to be
-part of something bigger, Beacon First Presbyterian Church is at work striving to do
-just that.
-
-We open our doors for the Welcome Table, which serves free meals every Friday and
-Saturday mornings. We also have a Tiny Food Pantry on our property, filled daily. It is there
-inviting people to take what they need, leave what they can. And members from the
-community do both. Some take what they need, others share with us by bringing food to
-contribute to the food.
-
-Contact us if you want to talk or connect. 
-I would love to talk together, share thoughts and ideas. 
-We can do this via text, or email, or in person!
-Call and leave a message and I will get back to you. 
-I would love to meet together and just chat.
-
-It is because Christ loves us that we love each other.
-We choose welcome, compassion, and grace.
-
-_May the Lord bless you and keep you and give you peace._
-
-In Christ’s love and shalom,<br/>
-Rev. Dr. Eileen. Borduin Vanderzwan
 
 Beacon First Presbyterian Church<br/>
 50 Liberty Street<br/>
