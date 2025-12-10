@@ -3,7 +3,6 @@ remote_theme: daattali/beautiful-jekyll
 css: css/override.css
 navbar-links:
   Home: "/"
-  Pastor's Page: "pastor"
   Livestream: "https://www.youtube.com/@BeaconPresbyChurch/live"
   Donate: "donate"
 
